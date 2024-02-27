@@ -1,7 +1,5 @@
 #paintpal
-#Ileana Perez Ruiz
 #The purpose of this program is to calculate the total estimate for an interior home paint project. 
-#I pledge that this is my own work
 
 print ("Welcome to Paint Pal. This program will give you a price quote for painting a room.")
 print ("\n Please enter each measurement in feet.")
